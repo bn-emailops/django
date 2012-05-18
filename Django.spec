@@ -62,4 +62,4 @@ rm -rf $RPM_BUILD_ROOT
 
 %files -f INSTALLED_FILES
 %defattr(-,root,root)
-%doc docs extras AUTHORS INSTALL LICENSE README
+%doc docs extras AUTHORS INSTALL LICENSE
